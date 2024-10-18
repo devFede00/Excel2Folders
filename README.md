@@ -20,3 +20,5 @@ This project is a Python application that reads an Excel file 📊 and creates d
    ```bash
    git clone https://github.com/yourusername/folder-file-creator.git
    cd folder-file-creator
+   pip install requirements.txt
+   ```
